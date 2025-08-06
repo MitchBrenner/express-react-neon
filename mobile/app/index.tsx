@@ -24,7 +24,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text style={{ fontSize: 24, fontWeight: "rbold", margin: 10 }}>
+      <Text style={{ fontSize: 24, fontWeight: "bold", margin: 10 }}>
         Orders
       </Text>
       {orders && (
