@@ -33,27 +33,6 @@ The purpose of this project is to test and demo basic functionality across all p
 
 ---
 
-## 📦 Dependencies
-
-### Backend
-
-- Node.js
-- Express
-- Neon (PostgreSQL)
-
-### Web Frontend
-
-- React
-- Vite
-- Tailwind CSS (optional)
-
-### Mobile Frontend
-
-- React Native
-- Expo
-
----
-
 ## 🚀 Project Structure
 
 express-react-neon-basics/
