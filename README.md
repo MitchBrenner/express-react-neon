@@ -35,11 +35,13 @@ The purpose of this project is to test and demo basic functionality across all p
 
 ## 🚀 Project Structure
 
+```
 express-react-neon-basics/
 │
-├── backend/ # Express server (Node.js)
-├── mobile/ # React Native app using Expo
-├── web/ # React + Vite frontend
+├── backend/  # Express server (Node.js)
+├── mobile/   # React Native app using Expo
+├── web/      # React + Vite frontend
+```
 
 ---
 
